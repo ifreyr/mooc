@@ -6,4 +6,4 @@ MOOC课程证书
 
 * [Introduction to Big Data with Apache Spark](spark_Certificate.pdf)
 * [Scalable Machine Learning](scalable_machine_learning.png)
-* [Machine Learning](ml.png)
+* [Machine Learning](maching_learning.png)
